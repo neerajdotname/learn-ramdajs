@@ -39,3 +39,7 @@ componentWillMount = R.pipe(
      R.forEach(this.props.addProject)
 );
 ```
+
+## Case 3
+
+https://github.com/ramda/ramda/issues/1642
