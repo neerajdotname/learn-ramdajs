@@ -93,3 +93,11 @@ componentWillMount = R.pipe(
 ## Case 3
 
 https://github.com/ramda/ramda/issues/1642
+
+
+## Problem 2
+
+
+#### pointfree solution
+
+https://jsfiddle.net/zojrxyfc/7/
