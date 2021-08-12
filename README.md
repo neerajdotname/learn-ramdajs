@@ -38,3 +38,10 @@ Solution 2 : https://jsfiddle.net/nrkfgLge/2/
 https://www.youtube.com/watch?time_continue=500&v=JRzly-t4Boc
 
 https://www.youtube.com/watch?v=F6yyrVJhGak
+
+# Dec 8
+
+https://jsfiddle.net/wLs35js9/1/
+
+
+https://jsfiddle.net/8xjjwv65/1/
