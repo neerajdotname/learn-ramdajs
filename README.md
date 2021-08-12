@@ -32,3 +32,9 @@ Solution 2 : https://jsfiddle.net/eaytmd9r/2/
 Solution 1 : https://jsfiddle.net/nrkfgLge/1/
 
 Solution 2 : https://jsfiddle.net/nrkfgLge/2/
+
+# Dec 4
+
+https://www.youtube.com/watch?time_continue=500&v=JRzly-t4Boc
+
+https://www.youtube.com/watch?v=F6yyrVJhGak
